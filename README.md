@@ -287,8 +287,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Support
 
 - 📖 [Documentation](https://pub.dev/packages/universal_asset)
-- 🐛 [Issue Tracker](https://github.com/your-username/universal_asset/issues)
-- 💬 [Discussions](https://github.com/your-username/universal_asset/discussions)
+- 🐛 [Issue Tracker](https://github.com/maniokhan/universal_asset/issues)
+- 💬 [Discussions](https://github.com/maniokhan/universal_asset/discussions)
 
 ---
 
