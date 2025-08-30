@@ -1,6 +1,6 @@
 name: universal_asset
 description: A lightweight, modular Flutter package for displaying different types of assets (images, SVGs, Lottie animations, Rive animations) using a single widget.
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/maniokhan/universal_asset
 repository: https://github.com/maniokhan/universal_asset
 

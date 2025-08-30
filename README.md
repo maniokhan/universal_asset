@@ -33,7 +33,7 @@ Add `universal_asset` to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  universal_asset: ^1.0.0
+  universal_asset: ^1.0.1
 ```
 
 ### Optional Dependencies
