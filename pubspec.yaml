@@ -1,0 +1,36 @@
+name: universal_asset
+description: A lightweight, modular Flutter package for displaying different types of assets (images, SVGs, Lottie animations, Rive animations) using a single widget.
+version: 1.0.0
+homepage: https://github.com/maniokhan/universal_asset
+repository: https://github.com/maniokhan/universal_asset
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+  flutter: ">=3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  meta: ^1.9.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  # Optional dependencies for testing
+  flutter_svg: ^2.0.9
+  lottie: ^3.0.0
+  rive: ^0.12.0
+  cached_network_image: ^3.3.0
+
+# Optional dependencies that users can add if needed
+# Users should add these to their pubspec.yaml:
+#
+# dependencies:
+#   flutter_svg: ^2.0.9      # For SVG support
+#   lottie: ^3.0.0          # For Lottie animations
+#   rive: ^0.12.0           # For Rive animations
+#   cached_network_image: ^3.3.0  # For cached network images
+
+flutter:
+  # No assets needed for the package itself
