@@ -10,7 +10,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  # The universal_asset package
+  # The universal_asset package - path should point to parent directory
   universal_asset:
     path: ../
 
@@ -27,9 +27,3 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
-
-  # Sample assets for the demo
-  assets:
-    - assets/
-    - assets/images/
-    - assets/animations/
