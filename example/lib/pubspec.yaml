@@ -1,0 +1,35 @@
+name: universal_asset_example
+description: A demonstration app for the universal_asset package.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+  flutter: ">=3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # The universal_asset package
+  universal_asset:
+    path: ../
+
+  # Optional dependencies - comment out the ones you don't want to test
+  flutter_svg: ^2.0.9
+  lottie: ^3.0.0
+  rive: ^0.12.0
+  cached_network_image: ^3.3.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  # Sample assets for the demo
+  assets:
+    - assets/
+    - assets/images/
+    - assets/animations/
